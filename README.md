@@ -1,5 +1,5 @@
 # Bingo
-This is an online bingo game. Here is the data diagram.
+This is an online bingo game. Here is the data diagram:
 
 ## APIs
 Join Game
