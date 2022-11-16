@@ -2,6 +2,13 @@
 ![the world in a marble](DALL·E 2022-11-16 09.58.36.png)
 This is an online bingo game. Here is the data diagram:
 
+## Team
+Name | Email | Phone
+--- | --- | ---
+john | john@example.com | (555) 555-5555
+jane | jane@example.com | (555) 555-5556
+jerry | jerry@example.com | (555) 555-5557
+
 ## APIs
 [Join Game](README.md#join-game)
 
